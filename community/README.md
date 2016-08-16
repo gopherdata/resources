@@ -5,11 +5,13 @@ There are a lot of great Go and data-science related articles, tutorials, videos
 ## Discussion
 
 [Gophers Slack #data-science Channel](https://gophers.slack.com/messages/data-science/)
+
 [gopherds](https://groups.google.com/forum/#!forum/gopherds) - Go data science discussion list
 
 ## Blogs
 
 [Data Dan](http://www.datadan.io/) - Daniel Whitenack
+
 [Machine Learning Explorations](http://mlexplore.org/) - Milos Gajdos
 
 ## Meetups, Events, Conferences, etc.
