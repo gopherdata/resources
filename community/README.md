@@ -1,6 +1,6 @@
 # Community Resources
 
-There are a lot of great Go and data-science related articles, tutorials, videos, etc. out there (too many to list here). However, this attempts to be a curated repository of some useful reading and resources related to doing data science with Go.
+The Go data science community is committed to being welcoming and helpful, and we would love you to get involved. This attempts to be a curated list of current events, discussion outlets, blogs, etc. related to doing data science with Go.
 
 ## Discussion
 
