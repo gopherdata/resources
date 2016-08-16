@@ -1,2 +1,6 @@
-# Go data science training
-Training for Go-based data science. Coming soon!
+# Go data science resources
+Resources for Go-based data science. 
+
+- [Community](community)
+- Tooling (coming soon)
+
