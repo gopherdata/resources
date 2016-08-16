@@ -20,3 +20,4 @@ The Go data science community is committed to being welcoming and helpful, and w
 | -----------------|-----------------------------------------------|------------------------|
 | August 25, 2016  | [NSK Meetup](https://golang-nsk.party/)       | Data science talk and demos by D. Whitenack |
 | August 29 - September 2, 2016 | [GridKa School "Data Science on Modern Architectures"](http://gridka-school.scc.kit.edu/2016/) | Includes an introduction to Go |
+| September 20, 2016 | [Chicago Ultimate Golang](http://www.meetup.com/Chicago-Ultimate-Golang/events/232867446/) | Data science talk and demos by D. Whitenack |
