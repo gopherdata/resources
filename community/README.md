@@ -1,6 +1,6 @@
 # Community Resources
 
-The Go data science community is committed to being welcoming and helpful, and we would love you to get involved. This attempts to be a curated list of current events, discussion outlets, blogs, etc. related to doing data science with Go.
+The Go data science community is committed to being welcoming and helpful, and we would want you to get involved. This attempts to be a curated list of current events, discussion outlets, blogs, etc. related to doing data science with Go.
 
 ## Discussion
 
