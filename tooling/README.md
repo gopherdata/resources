@@ -4,7 +4,7 @@ This is a curated list of well-maintained and actively developing tools, package
 
 [CSV](README.md#csv)  
 [General data munging](README.md#general-data-munging)  
-[General purpose machine learning](README.md#general-purpose-machine-learning)
+[General purpose machine learning](README.md#general-purpose-machine-learning)  
 [Plotting/dashboarding](README.md#plottingdashboarding)  
 
 ## CSV
