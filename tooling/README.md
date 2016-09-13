@@ -3,6 +3,8 @@
 This is a curated list of well-maintained and actively developing tools, packages, libraries, etc. related to doing data science with Go.
 
 [General data munging](README.md#general-data-munging)
+[CSV](README.md#csv)
+[Plotting/dashboarding](README.md#plottingdashboarding)
 
 ## General data munging
 
