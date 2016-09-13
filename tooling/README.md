@@ -2,6 +2,8 @@
 
 This is a curated list of well-maintained and actively developing tools, packages, libraries, etc. related to doing data science with Go.
 
+[General data munging](README.md#general-data-munging)
+
 ## General data munging
 
 - [github.com/kniren/gota](https://github.com/kniren/gota) - Dataframes.
