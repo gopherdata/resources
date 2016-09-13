@@ -2,5 +2,5 @@
 Resources for Go-based data science. 
 
 - [Community](community)
-- Tooling (coming soon)
+- [Tooling](tooling)
 
