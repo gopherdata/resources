@@ -131,6 +131,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/Boostport/avatica](https://github.com/Boostport/avatica) - Apache Phoenix/Avatica driver for Go's `database/sql` package.
 - [github.com/lib/pq](https://github.com/lib/pq) - A pure Go postgres driver for Go's `database/sql` package.
 - [github.com/go-pg/pg](https://github.com/go-pg/pg) - Fast PostgreSQL client and ORM.
+- [github.com/jackc/pgx](https://github.com/jackc/pgx) - A pure Go PostgreSQL driver that offers performance gains and more features while remaining `database/sql` compatible.
 - [github.com/go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - A MySQL-Driver for Go's `database/sql` package.
 - [github.com/mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver conforming to the built-in `database/sql` interface.
 
