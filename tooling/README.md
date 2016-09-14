@@ -6,6 +6,7 @@ This is a curated list of well-maintained and actively developing tools, package
 [Classification](README.md#classification)  
 [Clustering](README.md#clustering)  
 [CSV](README.md#csv)  
+[Distributed Data Analysis/Pipelining](README.md#distributed-data-analysispipelining)  
 [General data munging](README.md#general-data-munging)  
 [General purpose machine learning](README.md#general-purpose-machine-learning)  
 [Graphs](README.md#graphs)  
@@ -41,6 +42,13 @@ This is a curated list of well-maintained and actively developing tools, package
 - [encoding/csv](https://golang.org/pkg/encoding/csv/) - Stdlib CSV functionality.
 - [github.com/go-hep/csvutil](https://github.com/go-hep/csvutil) - A set of types and funcs to deal with CSV data files in a somewhat convenient way.
 - [github.com/go-hep/csvutil/tree/master/csvdriver](https://github.com/go-hep/csvutil/tree/master/csvdriver) - A CSV library for `databases/sql`.
+
+## Distributed Data Analysis/Pipelining
+
+- [github.com/pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Containerized Data Analytics http://pachyderm.io.
+- [github.com/chrislusf/glow](https://github.com/chrislusf/glow) - Glow is an easy-to-use distributed computation system written in Go, similar to Hadoop Map Reduce, Spark, Flink, Storm, etc.
+- [github.com/flowbase/flowbase](https://github.com/flowbase/flowbase) - A Flow-based Programming inspired micro-framework for Go (Golang) http://flowbase.org.
+- [github.com/scipipe/scipipe](https://github.com/scipipe/scipipe) - A Scientific workflow system written in pure Go (Golang) inspired by Flow-based Programming http://scipipe.org.
 
 ## General data munging
 
