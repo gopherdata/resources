@@ -128,6 +128,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 ## SQL-like Database Interactions
 
 - [databases/sql](https://golang.org/pkg/database/sql/) - Package sql provides a generic interface around SQL (or SQL-like) databases.
+- [github.com/Boostport/avatica](https://github.com/Boostport/avatica) - Apache Phoenix/Avatica driver for Go's database/sql package
 - [github.com/lib/pq](https://github.com/lib/pq) - A pure Go postgres driver for Go's database/sql package.
 - [github.com/go-pg/pg](https://github.com/go-pg/pg) - Fast PostgreSQL client and ORM.
 - [github.com/go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - A MySQL-Driver for Go's database/sql package.
