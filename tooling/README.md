@@ -47,6 +47,7 @@ This is a curated list of well-maintained and developing tools, packages, librar
 
 - [github.com/pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Containerized Data Analytics http://pachyderm.io.
 - [github.com/chrislusf/glow](https://github.com/chrislusf/glow) - Glow is an easy-to-use distributed computation system written in Go, similar to Hadoop Map Reduce, Spark, Flink, Storm, etc.
+- [github.com/chrislusf/gleam](https://github.com/chrislusf/gleam) - Another go based distributed execution system.
 - [github.com/flowbase/flowbase](https://github.com/flowbase/flowbase) - A Flow-based Programming inspired micro-framework for Go (Golang) http://flowbase.org.
 - [github.com/scipipe/scipipe](https://github.com/scipipe/scipipe) - A Scientific workflow system written in pure Go (Golang) inspired by Flow-based Programming http://scipipe.org.
 
