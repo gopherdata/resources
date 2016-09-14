@@ -13,9 +13,11 @@ This is a curated list of well-maintained and actively developing tools, package
 [Matrices/Linear Algebra](README.md#matriceslinear-algebra)  
 [Neural Networks](README.md#neural-networks)  
 [NLP](README.md#nlp)  
+[Non-SQL Database Interactions](README.md#non-sql-database-interactions)  
 [Plotting/dashboarding](README.md#plottingdashboarding)  
 [Probability/statistics](README.md#probabilitystatistics)  
-[Regression](README.md#regression)
+[Regression](README.md#regression)  
+[SQL-like Database Interactions](README.md#sql-like-database-interactions)  
 [Web Scraping](README.md#web-scraping)  
 
 ## Arithmetic 
@@ -43,6 +45,7 @@ This is a curated list of well-maintained and actively developing tools, package
 ## General data munging
 
 - [github.com/kniren/gota](https://github.com/kniren/gota) - Dataframes.
+- [github.com/gopherds/gophernotes](https://github.com/gopherds/gophernotes) - Go kernel for Jupyter notebooks.
 
 ## General purpose machine learning
 
@@ -82,6 +85,15 @@ This is a curated list of well-maintained and actively developing tools, package
 - [github.com/reiver/go-porterstemmer](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming Algorithm.
 - [github.com/blevesearch/segment](https://github.com/blevesearch/segment) - A Go library for performing Unicode Text Segmentation as described in Unicode Standard Annex #29.
 - [https://github.com/kljensen/snowball](https://github.com/kljensen/snowball) - A Go (golang) implementation of the Snowball stemmer for natural language processing.
+- [github.com/sajari/word2vec](https://github.com/sajari/word2vec) - word2vec is a Go package which provides functions for querying word2vec models.
+
+## Non-SQL Database Interactions
+
+- [gopkg.in/mgo.v2](https://labix.org/mgo) - mgo (pronounced as mango) is a MongoDB driver for the Go language.
+- [github.com/gocql/gocql](https://github.com/gocql/gocql) - A fast and robust Cassandra client for the Go programming language.
+- [github.com/go-redis/redis](https://github.com/go-redis/redis) - Redis client for Golang.
+- [github.com/garyburd/redigo](https://github.com/garyburd/redigo) - Go client for Redis.
+- [github.com/tsuna/gohbase](https://github.com/tsuna/gohbase) - Pure Go HBase client.
 
 ## Plotting/dashboarding
 
@@ -97,6 +109,14 @@ This is a curated list of well-maintained and actively developing tools, package
 
 - [github.com/sajari/regression](https://github.com/sajari/regression) - Multivariable linear regression.
 - [github.com/glycerine/zettalm](https://github.com/glycerine/zettalm) - Go code to build linear regression models on zettabytes of data.
+
+## SQL-like Database Interactions
+
+- [databases/sql](https://golang.org/pkg/database/sql/) - Package sql provides a generic interface around SQL (or SQL-like) databases.
+- [github.com/lib/pq](https://github.com/lib/pq) - A pure Go postgres driver for Go's database/sql package.
+- [github.com/go-pg/pg](https://github.com/go-pg/pg) - Fast PostgreSQL client and ORM.
+- [github.com/go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - A MySQL-Driver for Go's database/sql package.
+- [github.com/mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver conforming to the built-in database/sql interface.
 
 ## Web Scraping
 
