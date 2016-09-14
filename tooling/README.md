@@ -2,20 +2,28 @@
 
 This is a curated list of well-maintained and actively developing tools, packages, libraries, etc. related to doing data science with Go.
 
-[Classification](README.md#classification)
+[Arithmetic](README.md#arithmetic)  
+[Classification](README.md#classification)  
 [Clustering](README.md#clustering)  
 [CSV](README.md#csv)  
 [General data munging](README.md#general-data-munging)  
 [General purpose machine learning](README.md#general-purpose-machine-learning)  
 [Graphs](README.md#graphs)  
 [JSON](README.md#json)  
-[Matrices/Linear Algebra](README.md#matriceslinear-algebra)
+[Matrices/Linear Algebra](README.md#matriceslinear-algebra)  
 [Neural Networks](README.md#neural-networks)  
 [NLP](README.md#nlp)  
 [Plotting/dashboarding](README.md#plottingdashboarding)  
 [Probability/statistics](README.md#probabilitystatistics)  
 [Regression](README.md#regression)
 [Web Scraping](README.md#web-scraping)  
+
+## Arithmetic 
+
+- [math](https://golang.org/pkg/math/) - Stdlib math functions.
+- [math/cmplx](https://golang.org/pkg/math/cmplx/) - Package cmplx provides basic constants and mathematical functions for complex numbers.
+- [github.com/gonum/floats](https://github.com/gonum/floats) - A set of helper routines for dealing with slices of float64.
+- [github.com/gonum/optimize](https://github.com/gonum/optimize) - This is an optimization package for the Go language. 
 
 ## Classification
 
