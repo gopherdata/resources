@@ -134,6 +134,9 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/jackc/pgx](https://github.com/jackc/pgx) - A pure Go PostgreSQL driver that offers performance gains and more features while remaining `database/sql` compatible.
 - [github.com/go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - A MySQL-Driver for Go's `database/sql` package.
 - [github.com/mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver conforming to the built-in `database/sql` interface.
+- [github.com/lukasmartinelli/pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats (JSON, JSON Lines, CSV, XLSX, XML) or use a Golang templates 
+- [github.com/lukasmartinelli/pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
+- [github.com/omniscale/imposm3](https://github.com/omniscale/imposm3) - Import OpenStreetMap data into PostgreSQL/PostGIS database
 
 ## Web Scraping
 
