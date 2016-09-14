@@ -21,6 +21,10 @@ This is a curated list of well-maintained and developing tools, packages, librar
 [SQL-like Database Interactions](README.md#sql-like-database-interactions)  
 [Web Scraping](README.md#web-scraping)  
 
+Also, this space includes a list of proposed packages that would fill certain gaps in the ecosystem or provide enhanced functionality.
+
+[Proposed](README.md#proposed)
+
 ## Arithmetic 
 
 - [math](https://golang.org/pkg/math/) - Stdlib math functions.
@@ -131,3 +135,8 @@ This is a curated list of well-maintained and developing tools, packages, librar
 
 - [github.com/yhat/scrape](https://github.com/yhat/scrape) - A simple, higher level interface for Go web scraping.
 - [github.com/cathalgarvey/sqrape](https://github.com/cathalgarvey/sqrape) - Simple Query Scraping with CSS and Go Reflection.
+
+## Proposed
+
+  * [ ] A robust (and concurrent) package to handle minimizations/fits of data and histograms (gonum/optimize would provide a nice foundation for this).
+  * [ ] A robust (and concurrent) package to describe statistical models (Bayesian and frequentist) with many nuisance parameters, etc...
