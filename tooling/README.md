@@ -16,7 +16,7 @@ This is a curated list of well-maintained and developing tools, packages, librar
 [NLP](README.md#nlp)  
 [Non-SQL Database Interactions](README.md#non-sql-database-interactions)  
 [Plotting/dashboarding](README.md#plottingdashboarding)  
-[Probability/statistics](README.md#probabilitystatistics)  
+[Probability/statistics/experiments](README.md#probabilitystatisticsexperiments)  
 [Regression](README.md#regression)  
 [SQL-like Database Interactions](README.md#sql-like-database-interactions)  
 [Web Scraping](README.md#web-scraping)  
@@ -113,11 +113,12 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/gonum/plot](https://github.com/gonum/plot) - An API for building and drawing plots.
 - [github.com/gigablah/dashing-go](https://github.com/gigablah/dashing-go) - A port of dashing for real-time dashboarding.
 
-## Probability/statistics
+## Probability/statistics/experiments
 
 - [github.com/gonum/stat](https://github.com/gonum/stat) - Statistics package for Go.
 - [github.com/montanaflynn/stats](https://github.com/montanaflynn/stats) - A statistics package with common functions that are missing from the Golang standard library.
 - [github.com/URXtech/planout-golang](https://github.com/URXtech/planout-golang) - (Multi Variate Testing) Interpreter for Planout code written in Go.
+- [github.com/peleteiro/bandit-server](https://github.com/peleteiro/bandit-server) - Bandit-server is a Multi-Armed Bandit api server which needs no configuration neither persistent store.
 
 ## Regression
 
