@@ -117,6 +117,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 - [github.com/gonum/stat](https://github.com/gonum/stat) - Statistics package for Go.
 - [github.com/montanaflynn/stats](https://github.com/montanaflynn/stats) - A statistics package with common functions that are missing from the Golang standard library.
+- [github.com/URXtech/planout-golang](https://github.com/URXtech/planout-golang) - (Multi Variate Testing) Interpreter for Planout code written in Go.
 
 ## Regression
 
