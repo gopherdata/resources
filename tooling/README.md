@@ -1,6 +1,6 @@
 # Go Data Science Tooling, Packages, Libraries, etc.
 
-This is a curated list of well-maintained and actively developing tools, packages, libraries, etc. related to doing data science with Go.
+This is a curated list of well-maintained and developing tools, packages, libraries, etc. related to doing data science with Go.
 
 [Arithmetic](README.md#arithmetic)  
 [Classification](README.md#classification)  
