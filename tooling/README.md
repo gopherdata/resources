@@ -139,6 +139,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 ## Proposed
 
+  * [ ] [Proposal](https://github.com/golang/proposal/blob/master/design/6282-table-data.md), multi-dimensional slices within Go itself.
   * [ ] A robust (and concurrent) package to handle minimizations/fits of data and histograms (gonum/optimize would provide a nice foundation for this).
   * [ ] A robust (and concurrent) package to describe statistical models (Bayesian and frequentist) with many nuisance parameters, etc...
   * [ ] A Go native package for A/B testing.
