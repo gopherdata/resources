@@ -149,3 +149,5 @@ Also, this space includes a list of proposed packages that would fill certain ga
   * [ ] A robust (and concurrent) package to handle minimizations/fits of data and histograms (gonum/optimize would provide a nice foundation for this).
   * [ ] A robust (and concurrent) package to describe statistical models (Bayesian and frequentist) with many nuisance parameters, etc...
   * [ ] A Go native package for A/B testing.
+  * [ ] A database with datalog querying. Inspiration can be drawn from Rich Hickey's [Datomic](http://www.datomic.com) database, but open source.
+  * [ ] A datalog query system for distributed computation. Similar to [Cascalog](http://cascalog.org/) for the Hadoop ecosystem, but integrating with some of the Go tools instead.
