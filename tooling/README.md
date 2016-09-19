@@ -62,6 +62,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 ## General purpose machine learning
 
+- [github.com/chewxy/gorgonia](https://github.com/chewxy/gorgonia) - Provides the necessary primitives for creating and executing neural networks and machine learning algorithms.
 - [github.com/sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) - GoLearn is a 'batteries included' machine learning library for Go.
 - [github.com/cdipaolo/goml](https://github.com/cdipaolo/goml) - `goml` is a machine learning library written entirely in Golang which lets the average developer include machine learning into their applications.
 - [github.com/xlvector/hector](https://github.com/xlvector/hector) - Golang machine learning lib. Currently, it can be used to solve binary classification problems. 
