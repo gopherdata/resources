@@ -19,6 +19,7 @@ This is a curated list of well-maintained and developing tools, packages, librar
 [Probability/statistics/experiments](README.md#probabilitystatisticsexperiments)  
 [Regression](README.md#regression)  
 [SQL-like Database Interactions](README.md#sql-like-database-interactions)  
+[Time Series](README.md#time-series)  
 [Web Scraping](README.md#web-scraping)  
 
 Also, this space includes a list of proposed packages that would fill certain gaps in the ecosystem or provide enhanced functionality.
@@ -79,7 +80,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/tidwall/gjson](https://github.com/tidwall/gjson) - A Go package the provides a very fast and simple way to get a value from a json document.
 - [github.com/pquerna/ffjson](https://github.com/pquerna/ffjson) - ffjson generates static MarshalJSON and UnmarshalJSON functions for structures in Go. 
 
-## Matrices/Linear Algebra
+## Matrices/Arrays/Linear Algebra
 
 - [github.com/gonum/lapack](https://github.com/gonum/lapack) - A collection of packages to provide LAPACK functionality for the Go programming language.
 - [github.com/gonum/blas](https://github.com/gonum/blas) - A collection of packages to provide BLAS functionality for the Go.
@@ -121,6 +122,10 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/montanaflynn/stats](https://github.com/montanaflynn/stats) - A statistics package with common functions that are missing from the Golang standard library.
 - [github.com/URXtech/planout-golang](https://github.com/URXtech/planout-golang) - (Multi Variate Testing) Interpreter for Planout code written in Go.
 - [github.com/peleteiro/bandit-server](https://github.com/peleteiro/bandit-server) - Bandit-server is a Multi-Armed Bandit api server which needs no configuration neither persistent store.
+- [github.com/dgryski/go-topk](https://github.com/dgryski/go-topk) - A "filtered space saving" streaming topk algorithm.
+- [github.com/dgryski/go-kll](https://github.com/dgryski/go-kll) - An implementation of KLL sketch for "Almost Optimal Streaming Quantiles."
+- [github.com/dgryski/go-linlog](https://github.com/dgryski/go-linlog) - Linear-log bucketing and histograms.
+- [github.com/dgryski/go-rbo](https://github.com/dgryski/go-rbo) - Computes the rank-biased overlap for two sorted result sets.
 
 ## Regression
 
@@ -139,6 +144,12 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/lukasmartinelli/pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats (JSON, JSON Lines, CSV, XLSX, XML) or use a Golang templates 
 - [github.com/lukasmartinelli/pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 - [github.com/omniscale/imposm3](https://github.com/omniscale/imposm3) - Import OpenStreetMap data into PostgreSQL/PostGIS database
+
+## Time Series
+
+- [github.com/dgryski/go-holtwinters](https://github.com/dgryski/go-holtwinters) - An implementation of Holt-Winters forecasting.
+- [github.com/dgryski/go-tsz](https://github.com/dgryski/go-tsz) - A time series compression algorithm from Facebook's Gorilla paper.
+- [github.com/dgryski/go-timewindow](https://github.com/dgryski/go-timewindow) - Counters over sliding windows.
 
 ## Web Scraping
 
