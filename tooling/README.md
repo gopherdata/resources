@@ -155,6 +155,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 - [github.com/yhat/scrape](https://github.com/yhat/scrape) - A simple, higher level interface for Go web scraping.
 - [github.com/cathalgarvey/sqrape](https://github.com/cathalgarvey/sqrape) - Simple Query Scraping with CSS and Go Reflection.
+- [github.com/PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - Gives you easy access to the HTML structure of a page and enables you to pick which elements you want to access by attribute or content.
 
 ## Proposed
 
