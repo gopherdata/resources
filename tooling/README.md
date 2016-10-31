@@ -147,6 +147,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 ## Time Series
 
+- [github.com/influxdata/influxdb](https://github.com/influxdata/influxdb) - an open source time series database.
 - [github.com/dgryski/go-holtwinters](https://github.com/dgryski/go-holtwinters) - An implementation of Holt-Winters forecasting.
 - [github.com/dgryski/go-tsz](https://github.com/dgryski/go-tsz) - A time series compression algorithm from Facebook's Gorilla paper.
 - [github.com/dgryski/go-timewindow](https://github.com/dgryski/go-timewindow) - Counters over sliding windows.
