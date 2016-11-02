@@ -60,6 +60,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 - [github.com/kniren/gota](https://github.com/kniren/gota) - Dataframes.
 - [github.com/gopherds/gophernotes](https://github.com/gopherds/gophernotes) - Go kernel for Jupyter notebooks.
+- [github.com/kevinschoon/fit](https://github.com/kevinschoon/fit) - Toolkit for exploring and manipulating datasets.
 
 ## General purpose machine learning
 
