@@ -1,6 +1,10 @@
 # Go data science resources
-Resources for Go-based data science. 
 
-- [Community](community) - events, conferences, blogs, etc.
-- [Tooling](tooling) - packages, libraries, tools, etc.
+Please see the following sub-sections for specific types of Go-based data science resources:
+
+## [Community Resources &rarr;](community)
+(events, conferences, blogs, etc...)
+
+## [Tooling Resources &rarr;](tooling)
+(packages, libraries, tools, etc ...)
 
