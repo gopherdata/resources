@@ -11,6 +11,7 @@ This is a curated list of well-maintained and developing tools, packages, librar
 [General purpose machine learning](README.md#general-purpose-machine-learning)  
 [Graphs](README.md#graphs)  
 [JSON](README.md#json)  
+[I/O](README.md#io)  
 [Matrices/Linear Algebra](README.md#matriceslinear-algebra)  
 [Neural Networks](README.md#neural-networks)  
 [NLP](README.md#nlp)  
@@ -80,6 +81,12 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [encoding/json](https://golang.org/pkg/encoding/json/) - Stdlib json functionality.
 - [github.com/tidwall/gjson](https://github.com/tidwall/gjson) - A Go package the provides a very fast and simple way to get a value from a json document.
 - [github.com/pquerna/ffjson](https://github.com/pquerna/ffjson) - ffjson generates static MarshalJSON and UnmarshalJSON functions for structures in Go. 
+
+## I/O
+
+- [github.com/sbinet/go-hdf5](https://github.com/sbinet/go-hdf5) - CGo bindings to `HDF5`.
+- [github.com/sbinet/npyio](https://github.com/sbinet/npyio) - Read/Write access to `.npy` data files.
+- [github.com/sbinet/go-arff](https://github.com/sbinet/go-arff) - Read/Write access to `ARFF` data files.
 
 ## Matrices/Arrays/Linear Algebra
 
