@@ -7,7 +7,7 @@ This is a curated list of well-maintained and developing tools, packages, librar
 [Clustering](README.md#clustering)  
 [CSV](README.md#csv)  
 [Distributed Data Analysis/Pipelining](README.md#distributed-data-analysispipelining)  
-[Geospatial](README.md#geospatial)
+[Geospatial](README.md#geospatial)   
 [General data munging](README.md#general-data-munging)  
 [General purpose machine learning](README.md#general-purpose-machine-learning)  
 [Graphs](README.md#graphs)  
