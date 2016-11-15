@@ -7,6 +7,7 @@ This is a curated list of well-maintained and developing tools, packages, librar
 [Clustering](README.md#clustering)  
 [CSV](README.md#csv)  
 [Distributed Data Analysis/Pipelining](README.md#distributed-data-analysispipelining)  
+[Geospatial](README.md#geospatial)
 [General data munging](README.md#general-data-munging)  
 [General purpose machine learning](README.md#general-purpose-machine-learning)  
 [Graphs](README.md#graphs)  
@@ -56,6 +57,14 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/chrislusf/gleam](https://github.com/chrislusf/gleam) - Another go based distributed execution system.
 - [github.com/flowbase/flowbase](https://github.com/flowbase/flowbase) - A Flow-based Programming inspired micro-framework for Go (Golang) http://flowbase.org.
 - [github.com/scipipe/scipipe](https://github.com/scipipe/scipipe) - A Scientific workflow system written in pure Go (Golang) inspired by Flow-based Programming http://scipipe.org.
+
+## Geospatial
+
+- [github.com/golang/geo](https://github.com/golang/geo) - S2 geometry library in Go
+- [github.com/twpayne/go-geom](https://github.com/twpayne/go-geom) - Efficient geometry types, encoding and decoding (GeoJSON, IGC, KML, WKB, WKT), and 2D geometry functions.
+- [github.com/twpayne/go-gpx](https://github.com/twpayne/go-gpx) - Read and write GPX documents
+- [github.com/twpayne/go-kml](https://github.com/twpayne/go-kml) - Convenience methods for creating and writing KML documents
+- [github.com/twpayne/go-polyline](https://github.com/twpayne/go-polyline) - Google Maps Polyline encoding and decoding
 
 ## General data munging
 
