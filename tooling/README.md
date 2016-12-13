@@ -3,6 +3,7 @@
 This is a curated list of well-maintained and developing tools, packages, libraries, etc. related to doing data science with Go.
 
 [Arithmetic](README.md#arithmetic)  
+[Bioinformatics](README.MD#bioinformatics)   
 [Classification](README.md#classification)  
 [Clustering](README.md#clustering)  
 [CSV](README.md#csv)  
@@ -34,6 +35,10 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [math/cmplx](https://golang.org/pkg/math/cmplx/) - Package cmplx provides basic constants and mathematical functions for complex numbers.
 - [github.com/gonum/floats](https://github.com/gonum/floats) - A set of helper routines for dealing with slices of float64.
 - [github.com/gonum/optimize](https://github.com/gonum/optimize) - This is an optimization package for the Go language. 
+
+## Bioinformatics
+
+- [github.com/MG-RAST/AWE](https://github.com/MG-RAST/AWE) - a workload management system for bioinformatic workflow applications.
 
 ## Classification
 
