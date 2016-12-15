@@ -121,6 +121,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/Lazin/go-ngram](https://github.com/Lazin/go-ngram) - N-gram index for Go.
 - [github.com/reiver/go-porterstemmer](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming Algorithm.
 - [github.com/blevesearch/segment](https://github.com/blevesearch/segment) - A Go library for performing Unicode Text Segmentation as described in Unicode Standard Annex #29.
+- [github.com/cdipaolo/sentiment](https://github.com/cdipaolo/sentiment) - Simple, Drop In Sentiment Analysis in Golang.
 - [https://github.com/kljensen/snowball](https://github.com/kljensen/snowball) - A Go (golang) implementation of the Snowball stemmer for natural language processing.
 - [github.com/sajari/word2vec](https://github.com/sajari/word2vec) - word2vec is a Go package which provides functions for querying word2vec models.
 - [github.com/jlubawy/go-gcnl](https://github.com/jlubawy/go-gcnl) - This package can be used to easily access the Google Cloud Natural Language API.
