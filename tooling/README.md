@@ -54,7 +54,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [encoding/csv](https://golang.org/pkg/encoding/csv/) - Stdlib CSV functionality.
 - [github.com/go-hep/csvutil](https://github.com/go-hep/csvutil) - A set of types and funcs to deal with CSV data files in a somewhat convenient way.
 - [github.com/go-hep/csvutil/tree/master/csvdriver](https://github.com/go-hep/csvutil/tree/master/csvdriver) - A CSV library for `databases/sql`.
-- [github.com/dinedal/textql] - Execute SQL against structured text like CSV or TSV.
+- [github.com/dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
 
 ## Distributed Data Analysis/Pipelining
 
