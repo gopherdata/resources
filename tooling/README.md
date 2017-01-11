@@ -75,6 +75,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 ## General data munging
 
 - [github.com/kniren/gota](https://github.com/kniren/gota) - Dataframes.
+- [github.com/Shixzie/ly](https://github.com/Shixzie/ly) - Auto-generated, general purpose Dataframes.
 - [github.com/gopherds/gophernotes](https://github.com/gopherds/gophernotes) - Go kernel for Jupyter notebooks.
 - [github.com/kevinschoon/fit](https://github.com/kevinschoon/fit) - Toolkit for exploring and manipulating datasets.
 
@@ -150,6 +151,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/dgryski/go-kll](https://github.com/dgryski/go-kll) - An implementation of KLL sketch for "Almost Optimal Streaming Quantiles."
 - [github.com/dgryski/go-linlog](https://github.com/dgryski/go-linlog) - Linear-log bucketing and histograms.
 - [github.com/dgryski/go-rbo](https://github.com/dgryski/go-rbo) - Computes the rank-biased overlap for two sorted result sets.
+- [github.com/Shixzie/analytics](https://github.com/Shixzie/analytics) - Analytics package for Go.
 
 ## Regression
 
