@@ -127,6 +127,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [https://github.com/kljensen/snowball](https://github.com/kljensen/snowball) - A Go (golang) implementation of the Snowball stemmer for natural language processing.
 - [github.com/sajari/word2vec](https://github.com/sajari/word2vec) - word2vec is a Go package which provides functions for querying word2vec models.
 - [github.com/jlubawy/go-gcnl](https://github.com/jlubawy/go-gcnl) - This package can be used to easily access the Google Cloud Natural Language API.
+- [github.com/olebedev/when](https://github.com/olebedev/when) - A natural language date/time parser with pluggable rules.
 
 ## Non-SQL Database Interactions
 
