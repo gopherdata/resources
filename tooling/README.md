@@ -34,7 +34,8 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [math](https://golang.org/pkg/math/) - Stdlib math functions.
 - [math/cmplx](https://golang.org/pkg/math/cmplx/) - Package cmplx provides basic constants and mathematical functions for complex numbers.
 - [github.com/gonum/floats](https://github.com/gonum/floats) - A set of helper routines for dealing with slices of float64.
-- [github.com/gonum/optimize](https://github.com/gonum/optimize) - This is an optimization package for the Go language. 
+- [github.com/gonum/optimize](https://github.com/gonum/optimize) - This is an optimization package for the Go language.    
+- [github.com/go-hep/fit](https://github.com/go-hep/fit) - a WIP package to provide easy fitting models and curve fitting functions.
 
 ## Bioinformatics
 
