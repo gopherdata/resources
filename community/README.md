@@ -16,12 +16,19 @@ The Go data science community is committed to being welcoming and helpful, and w
 
 ## Meetups, Events, Conferences, etc.
 
-| Date             | Event                                         |                      | DS Content/Involvement |
+### Upcoming
+
+| Date             | Event                                         |     Location         | DS Content/Involvement |
 | -----------------|-----------------------------------------------|----------------------|------------------------|
-| November 19-20, 2016 | [GDG DevFest Siberia](https://devfest.gdg.org.ru/en/) | Novosibirsk, Russia | "Ultimate" data science training |
-| November 10-11, 2016 | [Ultimate Data Science Training](https://www.eventbrite.com/e/ultimate-data-science-san-francisco-nov-2016-tickets-27757986886) | H2O, Mountain View, CA | Public Go-based DS training |
-| November 4-6, 2016 | [GopherCon Brazil](https://2016.gopherconbr.org/en/) | Florianópolis, SC, Brazil | Data science talk by D. Whitenack |
-| September 20, 2016 | [Chicago Ultimate Golang](http://www.meetup.com/Chicago-Ultimate-Golang/events/232867446/) | Chicago, IL, USA |Data science talk and demos by D. Whitenack |
-| August 29 - September 2, 2016 | [GridKa School "Data Science on Modern Architectures"](http://gridka-school.scc.kit.edu/2016/) | Berlin, Germany |Includes an introduction to Go |
-| August 25, 2016  | [NSK Meetup](https://golang-nsk.party/)       | Novosibirsk, Russia | Data science talk and demos by D. Whitenack |
+| February 24-25, 2017  | [GopherCon India](http://www.gophercon.in/)  | Pune, IN | Data workshop, talk by D. Whitenack |
+
+### Past
+
+| Date             | Event                                         |  Location            | Slides/Video           |
+| -----------------|-----------------------------------------------|----------------------|------------------------|
+| November 19-20, 2016 | [GDG DevFest Siberia](https://devfest.gdg.org.ru/en/) | Novosibirsk, Russia | [Ultimate data training material](https://github.com/ardanlabs/gotraining/tree/master/courses/data_science) |
+| September 20, 2016 | [Chicago Ultimate Golang](http://www.meetup.com/Chicago-Ultimate-Golang/events/232867446/) | Chicago, IL, USA | [Video - Go for Data Science, Engineering, and Analysis](https://vimeo.com/184654135) |
+| August 29 - September 2, 2016 | [GridKa School "Data Science on Modern Architectures"](http://gridka-school.scc.kit.edu/2016/) | Berlin, Germany | - |
+| August 25, 2016  | [NSK Meetup](https://golang-nsk.party/)  | Novosibirsk, Russia | [Video - Data science for gophers](https://youtu.be/2v0l0RTvlkQ) |
+| July 11, 2016  | [GopherCon](https://www.gophercon.com/)  | Denver, CO, USA | [Video - Go for data science](https://youtu.be/D5tDubyXLrQ) |
 
