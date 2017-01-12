@@ -20,7 +20,7 @@ The Go data science community is committed to being welcoming and helpful, and w
 
 | Date             | Event                                         |     Location         | DS Content/Involvement |
 | -----------------|-----------------------------------------------|----------------------|------------------------|
-| February 24-25, 2017  | [GopherCon India](http://www.gophercon.in/)  | Pune, IN | Data workshop, talk by D. Whitenack |
+| February 24-25, 2017  | [GopherCon India](http://www.gophercon.in/)  | Pune, India | Data workshop, talk by D. Whitenack |
 
 ### Past
 
