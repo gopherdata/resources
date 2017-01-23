@@ -129,6 +129,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/sajari/word2vec](https://github.com/sajari/word2vec) - word2vec is a Go package which provides functions for querying word2vec models.
 - [github.com/jlubawy/go-gcnl](https://github.com/jlubawy/go-gcnl) - This package can be used to easily access the Google Cloud Natural Language API.
 - [github.com/olebedev/when](https://github.com/olebedev/when) - A natural language date/time parser with pluggable rules.
+- [github.com/kampsy/gwizo](https://github.com/kampsy/gwizo) - Simple Go implementation of the Porter Stemmer algorithm with powerful features.
 
 ## Non-SQL Database Interactions
 
