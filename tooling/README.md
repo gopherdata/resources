@@ -2,39 +2,39 @@
 
 This is a curated list of well-maintained and developing tools, packages, libraries, etc. related to doing data science with Go.
 
-[Arithmetic](README.md#arithmetic)  
-[Bioinformatics](README.MD#bioinformatics)   
-[Classification](README.md#classification)  
-[Clustering](README.md#clustering)  
-[CSV](README.md#csv)  
-[Distributed Data Analysis/Pipelining](README.md#distributed-data-analysispipelining)  
-[Geospatial](README.md#geospatial)   
-[General data munging](README.md#general-data-munging)  
-[General purpose machine learning](README.md#general-purpose-machine-learning)  
-[Graphs](README.md#graphs)  
-[JSON](README.md#json)  
-[I/O](README.md#io)  
-[Matrices/Linear Algebra](README.md#matriceslinear-algebra)  
-[Neural Networks](README.md#neural-networks)  
-[NLP](README.md#nlp)  
-[Non-SQL Database Interactions](README.md#non-sql-database-interactions)  
-[Plotting/dashboarding](README.md#plottingdashboarding)  
-[Probability/statistics/experiments](README.md#probabilitystatisticsexperiments)  
-[Regression](README.md#regression)  
-[SQL-like Database Interactions](README.md#sql-like-database-interactions)  
-[Time Series](README.md#time-series)  
-[Web Scraping](README.md#web-scraping)  
+[Arithmetic](README.md#arithmetic)
+[Bioinformatics](README.MD#bioinformatics)
+[Classification](README.md#classification)
+[Clustering](README.md#clustering)
+[CSV](README.md#csv)
+[Distributed Data Analysis/Pipelining](README.md#distributed-data-analysispipelining)
+[Geospatial](README.md#geospatial)
+[General data munging](README.md#general-data-munging)
+[General purpose machine learning](README.md#general-purpose-machine-learning)
+[Graphs](README.md#graphs)
+[JSON](README.md#json)
+[I/O](README.md#io)
+[Matrices/Linear Algebra](README.md#matriceslinear-algebra)
+[Neural Networks](README.md#neural-networks)
+[NLP](README.md#nlp)
+[Non-SQL Database Interactions](README.md#non-sql-database-interactions)
+[Plotting/dashboarding](README.md#plottingdashboarding)
+[Probability/statistics/experiments](README.md#probabilitystatisticsexperiments)
+[Regression](README.md#regression)
+[SQL-like Database Interactions](README.md#sql-like-database-interactions)
+[Time Series](README.md#time-series)
+[Web Scraping](README.md#web-scraping)
 
 Also, this space includes a list of proposed packages that would fill certain gaps in the ecosystem or provide enhanced functionality.
 
 [Proposed](README.md#proposed)
 
-## Arithmetic 
+## Arithmetic
 
 - [math](https://golang.org/pkg/math/) - Stdlib math functions.
 - [math/cmplx](https://golang.org/pkg/math/cmplx/) - Package cmplx provides basic constants and mathematical functions for complex numbers.
 - [github.com/gonum/floats](https://github.com/gonum/floats) - A set of helper routines for dealing with slices of float64.
-- [github.com/gonum/optimize](https://github.com/gonum/optimize) - This is an optimization package for the Go language.    
+- [github.com/gonum/optimize](https://github.com/gonum/optimize) - This is an optimization package for the Go language.
 - [github.com/go-hep/fit](https://github.com/go-hep/fit) - a WIP package to provide easy fitting models and curve fitting functions.
 
 ## Bioinformatics
@@ -86,7 +86,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/chewxy/gorgonia](https://github.com/chewxy/gorgonia) - Provides the necessary primitives for creating and executing neural networks and machine learning algorithms.
 - [github.com/sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) - GoLearn is a 'batteries included' machine learning library for Go.
 - [github.com/cdipaolo/goml](https://github.com/cdipaolo/goml) - `goml` is a machine learning library written entirely in Golang which lets the average developer include machine learning into their applications.
-- [github.com/xlvector/hector](https://github.com/xlvector/hector) - Golang machine learning lib. Currently, it can be used to solve binary classification problems. 
+- [github.com/xlvector/hector](https://github.com/xlvector/hector) - Golang machine learning lib. Currently, it can be used to solve binary classification problems.
 
 ## Graphs
 
@@ -98,7 +98,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 - [encoding/json](https://golang.org/pkg/encoding/json/) - Stdlib json functionality.
 - [github.com/tidwall/gjson](https://github.com/tidwall/gjson) - A Go package the provides a very fast and simple way to get a value from a json document.
-- [github.com/pquerna/ffjson](https://github.com/pquerna/ffjson) - ffjson generates static MarshalJSON and UnmarshalJSON functions for structures in Go. 
+- [github.com/pquerna/ffjson](https://github.com/pquerna/ffjson) - ffjson generates static MarshalJSON and UnmarshalJSON functions for structures in Go.
 
 ## I/O
 
@@ -117,6 +117,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/tleyden/neurgo](https://github.com/tleyden/neurgo) - Neural Network toolkit in Go.
 - [github.com/fxsjy/gonn](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN.
 - [github.com/NOX73/go-neural](https://github.com/NOX73/go-neural) - Neural network implementation on golang.
+- [github.com/milosgajdos83/gosom](https://github.com/milosgajdos83/gosom) - Self-organizing maps in Go
 
 ## NLP
 
@@ -171,7 +172,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/jackc/pgx](https://github.com/jackc/pgx) - A pure Go PostgreSQL driver that offers performance gains and more features while remaining `database/sql` compatible.
 - [github.com/go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - A MySQL-Driver for Go's `database/sql` package.
 - [github.com/mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver conforming to the built-in `database/sql` interface.
-- [github.com/lukasmartinelli/pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats (JSON, JSON Lines, CSV, XLSX, XML) or use a Golang templates 
+- [github.com/lukasmartinelli/pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats (JSON, JSON Lines, CSV, XLSX, XML) or use a Golang templates
 - [github.com/lukasmartinelli/pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 - [github.com/omniscale/imposm3](https://github.com/omniscale/imposm3) - Import OpenStreetMap data into PostgreSQL/PostGIS database
 
