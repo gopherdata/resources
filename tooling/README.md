@@ -77,7 +77,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 ## General data munging
 
 - [github.com/kniren/gota](https://github.com/kniren/gota) - Dataframes.
-- [github.com/Shixzie/ly](https://github.com/Shixzie/ly) - Auto-generated, general purpose Dataframes.
+- [github.com/Shixzie/ly](https://github.com/Shixzie/ly) - A very flexible and easy to use pkg to work with DataFrames aimed at ML.
 - [github.com/gopherds/gophernotes](https://github.com/gopherds/gophernotes) - Go kernel for Jupyter notebooks.
 - [github.com/kevinschoon/fit](https://github.com/kevinschoon/fit) - Toolkit for exploring and manipulating datasets.
 
@@ -131,6 +131,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/jlubawy/go-gcnl](https://github.com/jlubawy/go-gcnl) - This package can be used to easily access the Google Cloud Natural Language API.
 - [github.com/olebedev/when](https://github.com/olebedev/when) - A natural language date/time parser with pluggable rules.
 - [github.com/kampsy/gwizo](https://github.com/kampsy/gwizo) - Simple Go implementation of the Porter Stemmer algorithm with powerful features.
+- [github.com/Shixzie/nlp](https://github.com/Shixzie/nlp) - General purpose any-lang Natural Language Processor that parses the data inside a text and returns a filled model.
 
 ## Non-SQL Database Interactions
 
@@ -155,7 +156,6 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/dgryski/go-kll](https://github.com/dgryski/go-kll) - An implementation of KLL sketch for "Almost Optimal Streaming Quantiles."
 - [github.com/dgryski/go-linlog](https://github.com/dgryski/go-linlog) - Linear-log bucketing and histograms.
 - [github.com/dgryski/go-rbo](https://github.com/dgryski/go-rbo) - Computes the rank-biased overlap for two sorted result sets.
-- [github.com/Shixzie/analytics](https://github.com/Shixzie/analytics) - Analytics package for Go.
 
 ## Regression
 
