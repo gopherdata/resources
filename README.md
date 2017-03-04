@@ -1,4 +1,4 @@
-# Go data science resources
+# Go data resources
 
 Please see the following sub-sections for specific types of Go-based data science resources:
 
