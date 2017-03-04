@@ -133,6 +133,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/olebedev/when](https://github.com/olebedev/when) - A natural language date/time parser with pluggable rules.
 - [github.com/kampsy/gwizo](https://github.com/kampsy/gwizo) - Simple Go implementation of the Porter Stemmer algorithm with powerful features.
 - [github.com/Shixzie/nlp](https://github.com/Shixzie/nlp) - General purpose any-lang Natural Language Processor that parses the data inside a text and returns a filled model.
+- [github.com/abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) - Natural language detection for Go.
 
 ## Non-SQL Database Interactions
 
@@ -188,6 +189,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/yhat/scrape](https://github.com/yhat/scrape) - A simple, higher level interface for Go web scraping.
 - [github.com/cathalgarvey/sqrape](https://github.com/cathalgarvey/sqrape) - Simple Query Scraping with CSS and Go Reflection.
 - [github.com/PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - Gives you easy access to the HTML structure of a page and enables you to pick which elements you want to access by attribute or content.
+- [github.com/anaskhan96/soup](https://github.com/anaskhan96/soup) - soup is a small web scraper package for Go, with its interface highly similar to that of BeautifulSoup.
 
 ## Proposed
 
