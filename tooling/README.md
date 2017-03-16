@@ -57,6 +57,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/go-hep/csvutil](https://github.com/go-hep/csvutil) - A set of types and funcs to deal with CSV data files in a somewhat convenient way.
 - [github.com/go-hep/csvutil/tree/master/csvdriver](https://github.com/go-hep/csvutil/tree/master/csvdriver) - A CSV library for `databases/sql`.
 - [github.com/dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
+- [github.com/shuLhan/dsv](https://github.com/shuLhan/dsv) - The Go library for working with delimited separated value (DSV).
 
 ## Distributed Data Analysis/Pipelining
 
@@ -80,6 +81,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/Shixzie/ly](https://github.com/Shixzie/ly) - A very flexible and easy to use pkg to work with DataFrames aimed at ML.
 - [github.com/gopherds/gophernotes](https://github.com/gopherds/gophernotes) - Go kernel for Jupyter notebooks.
 - [github.com/kevinschoon/fit](https://github.com/kevinschoon/fit) - Toolkit for exploring and manipulating datasets.
+- [github.com/shuLhan/tabula](https://github.com/shuLhan/tabula) - a Go library for working with rows, columns, or matrix (table), or in another terms working with dataset.
 
 ## General purpose machine learning
 
@@ -87,6 +89,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) - GoLearn is a 'batteries included' machine learning library for Go.
 - [github.com/cdipaolo/goml](https://github.com/cdipaolo/goml) - `goml` is a machine learning library written entirely in Golang which lets the average developer include machine learning into their applications.
 - [github.com/xlvector/hector](https://github.com/xlvector/hector) - Golang machine learning lib. Currently, it can be used to solve binary classification problems.
+- [github.com/shuLhan/go-mining](https://github.com/shuLhan/go-mining) - Small Golang library that contains classifiers (CART, Random Forest, Cascaded Random Forest, and KNN) and resampling (SMOTE and LN-SMOTE).
 
 ## Graphs
 
