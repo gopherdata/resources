@@ -142,6 +142,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/go-redis/redis](https://github.com/go-redis/redis) - Redis client for Golang.
 - [github.com/garyburd/redigo](https://github.com/garyburd/redigo) - Go client for Redis.
 - [github.com/tsuna/gohbase](https://github.com/tsuna/gohbase) - Pure Go HBase client.
+- [github.com/colinmarc/hdfs](https://github.com/colinmarc/hdfs) - Pure Go HDFS client.
 
 ## Plotting/dashboarding
 
