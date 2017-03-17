@@ -4,9 +4,8 @@ The Go data science community is committed to being welcoming and helpful, and w
 
 ## Discussion
 
-[Gophers Slack #data-science Channel](https://gophers.slack.com/messages/data-science/)
-
-[gopherds](https://groups.google.com/forum/#!forum/gopherds) - Go data science discussion list
+- [Gophers Slack #data-science Channel](https://gophers.slack.com/messages/data-science/) - Request an invite [here](https://invite.slack.golangbridge.org/).
+- [gopherds](https://groups.google.com/forum/#!forum/gopherds) - Go data science discussion list
 
 ## Blogs
 
