@@ -3,7 +3,7 @@
 This is a curated list of well-maintained and developing tools, packages, libraries, etc. related to doing data science with Go.
 
 - [Arithmetic](README.md#arithmetic)
-- [Bioinformatics](README.MD#bioinformatics)
+- [Bioinformatics](README.md#bioinformatics)
 - [Classification](README.md#classification)
 - [Clustering](README.md#clustering)
 - [CSV](README.md#csv)
