@@ -190,6 +190,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/cathalgarvey/sqrape](https://github.com/cathalgarvey/sqrape) - Simple Query Scraping with CSS and Go Reflection.
 - [github.com/PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - Gives you easy access to the HTML structure of a page and enables you to pick which elements you want to access by attribute or content.
 - [github.com/anaskhan96/soup](https://github.com/anaskhan96/soup) - soup is a small web scraper package for Go, with its interface highly similar to that of BeautifulSoup.
+- [github.com/schollz/linkcrawler](https://github.com/schollz/linkcrawler) - Cross-platform persistent and distributed web crawler
 
 ## Proposed
 
