@@ -137,6 +137,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/kampsy/gwizo](https://github.com/kampsy/gwizo) - Simple Go implementation of the Porter Stemmer algorithm with powerful features.
 - [github.com/Shixzie/nlp](https://github.com/Shixzie/nlp) - General purpose any-lang Natural Language Processor that parses the data inside a text and returns a filled model.
 - [github.com/abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) - Natural language detection for Go.
+- [github.com/ynqa/word-embedding](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go
 
 ## Non-SQL Database Interactions
 
