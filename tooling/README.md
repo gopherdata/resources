@@ -39,6 +39,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 ## Bioinformatics
 
+- [github.com/biogo](https://github.com/biogo) - a bioinformatics library collection for Go
 - [github.com/MG-RAST/AWE](https://github.com/MG-RAST/AWE) - a workload management system for bioinformatic workflow applications.
 - [github.com/kelvins/chronobiology](https://github.com/kelvins/chronobiology) - Go package that provides functions for the study of biological temporal rhythms.
 
