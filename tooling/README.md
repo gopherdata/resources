@@ -84,6 +84,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/gopherds/gophernotes](https://github.com/gopherds/gophernotes) - Go kernel for Jupyter notebooks.
 - [github.com/kevinschoon/fit](https://github.com/kevinschoon/fit) - Toolkit for exploring and manipulating datasets.
 - [github.com/shuLhan/tabula](https://github.com/shuLhan/tabula) - a Go library for working with rows, columns, or matrix (table), or in another terms working with dataset.
+- [neugram.io](https://neugram.io) - a programming language written in Go, designed for data munging.
 
 ## General purpose machine learning
 
