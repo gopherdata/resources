@@ -79,6 +79,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 ## General data munging
 
+- [github.com/elves/elvish](https://github.com/elves/elvish) - A shell (bash alternative) supporting working with pipelines of structured objects - not just text - and a more natural scripting syntax.
 - [github.com/kniren/gota](https://github.com/kniren/gota) - Dataframes.
 - [github.com/Shixzie/ly](https://github.com/Shixzie/ly) - A very flexible and easy to use pkg to work with DataFrames aimed at ML.
 - [github.com/gopherds/gophernotes](https://github.com/gopherds/gophernotes) - Go kernel for Jupyter notebooks.
