@@ -95,6 +95,8 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/cdipaolo/goml](https://github.com/cdipaolo/goml) - `goml` is a machine learning library written entirely in Golang which lets the average developer include machine learning into their applications.
 - [github.com/xlvector/hector](https://github.com/xlvector/hector) - Golang machine learning lib. Currently, it can be used to solve binary classification problems.
 - [github.com/shuLhan/go-mining](https://github.com/shuLhan/go-mining) - Small Golang library that contains classifiers (CART, Random Forest, Cascaded Random Forest, and KNN) and resampling (SMOTE and LN-SMOTE).
+- [github.com/galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way.
+- [github.com/ctava/tfcgo](https://github.com/ctava/tfcgo) - Bridging the gap between go and the Tensorflow c++ framework.
 
 ## Graphs
 
@@ -126,6 +128,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/fxsjy/gonn](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN.
 - [github.com/NOX73/go-neural](https://github.com/NOX73/go-neural) - Neural network implementation on golang.
 - [github.com/milosgajdos83/gosom](https://github.com/milosgajdos83/gosom) - Self-organizing maps in Go
+- [github.com/made2591/go-perceptron-go](https://github.com/made2591/go-perceptron-go) - A single level perceptron classifier.
 
 ## NLP
 
@@ -157,6 +160,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 - [github.com/gonum/plot](https://github.com/gonum/plot) - An API for building and drawing plots.
 - [github.com/gigablah/dashing-go](https://github.com/gigablah/dashing-go) - A port of dashing for real-time dashboarding.
+- [github.com/mmcloughlin/globe](https://github.com/mmcloughlin/globe) - Globe wireframe visualizations.
 
 ## Probability/statistics/experiments
 
