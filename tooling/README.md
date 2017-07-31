@@ -48,6 +48,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/jbrukh/bayesian](https://github.com/jbrukh/bayesian) - Naive Bayes classification.
 - [github.com/datastream/libsvm](https://github.com/datastream/libsvm) - libsvm golang version derived work based on LIBSVM 3.14.
 - [github.com/barnjamin/randomforest](https://github.com/barnjamin/randomforest) - Random Forest classification
+- [github.com/rikonor/go-ann](https://github.com/rikonor/go-ann) - Approximate k-Nearest Neighbor search.
 
 ## Clustering
 
