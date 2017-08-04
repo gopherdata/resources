@@ -25,7 +25,7 @@ The Go data science community is committed to being welcoming and helpful, and w
 
 | Date             | Event                                         |  Location            | Slides/Video           |
 | -----------------|-----------------------------------------------|----------------------|------------------------|
-| November 19-20, 2016 | [GDG DevFest Siberia](https://devfest.gdg.org.ru/en/) | Novosibirsk, Russia | [Ultimate data training material](https://github.com/ardanlabs/gotraining/tree/master/courses/data_science) |
+| November 19-20, 2016 | [GDG DevFest Siberia](https://devfest.gdg.org.ru/en/) | Novosibirsk, Russia | [Ultimate data training material](https://github.com/ardanlabs/gotraining/blob/master/topics/courses/data/README.md) |
 | September 20, 2016 | [Chicago Ultimate Golang](http://www.meetup.com/Chicago-Ultimate-Golang/events/232867446/) | Chicago, IL, USA | [Video - Go for Data Science, Engineering, and Analysis](https://vimeo.com/184654135) |
 | August 29 - September 2, 2016 | [GridKa School "Data Science on Modern Architectures"](http://gridka-school.scc.kit.edu/2016/) | Berlin, Germany | - |
 | August 25, 2016  | [NSK Meetup](https://golang-nsk.party/)  | Novosibirsk, Russia | [Video - Data science for gophers](https://youtu.be/2v0l0RTvlkQ) |
