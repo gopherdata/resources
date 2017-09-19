@@ -61,6 +61,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/go-hep/csvutil/tree/master/csvdriver](https://github.com/go-hep/csvutil/tree/master/csvdriver) - A CSV library for `databases/sql`.
 - [github.com/dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
 - [github.com/shuLhan/dsv](https://github.com/shuLhan/dsv) - The Go library for working with delimited separated value (DSV).
+- [github.com/frictionlessdata/tableschema-go](github.com/frictionlessdata/tableschema-go) - [Schema](https://github.com/danielfireman/resources) inference and table-based tooling (e.g., for working with CSV). 
 
 ## Distributed Data Analysis/Pipelining
 
