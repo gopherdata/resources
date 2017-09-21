@@ -53,6 +53,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 ## Clustering
 
 - [github.com/salkj/kmeans](https://github.com/salkj/kmeans) - A ready-to-use naive kmeans package for Go.
+- [github.com/mpraski/clusters](https://github.com/mpraski/clusters) - Go implementations of several clustering algoritms (k-means++, DBSCAN, OPTICS), as well as utilities for importing data and estimating optimal number of clusters.
 
 ## CSV
 
