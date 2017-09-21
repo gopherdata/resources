@@ -20,6 +20,7 @@ This is a curated list of well-maintained and developing tools, packages, librar
 - [Non-SQL Database Interactions](README.md#non-sql-database-interactions)
 - [Plotting/dashboarding](README.md#plottingdashboarding)
 - [Probability/statistics/experiments](README.md#probabilitystatisticsexperiments)
+- [Recommendation Systems/Engines](README.md#recommendation-systems)     
 - [Regression](README.md#regression)
 - [SQL-like Database Interactions](README.md#sql-like-database-interactions)
 - [Time Series](README.md#time-series)
@@ -175,6 +176,10 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/dgryski/go-kll](https://github.com/dgryski/go-kll) - An implementation of KLL sketch for "Almost Optimal Streaming Quantiles."
 - [github.com/dgryski/go-linlog](https://github.com/dgryski/go-linlog) - Linear-log bucketing and histograms.
 - [github.com/dgryski/go-rbo](https://github.com/dgryski/go-rbo) - Computes the rank-biased overlap for two sorted result sets.
+
+## Recommendation Systems
+
+- [github.com/jbochi/facts](https://github.com/jbochi/facts) - Matrix Factorization based recsys in Golang. Because facts are more important than ever.
 
 ## Regression
 
