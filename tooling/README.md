@@ -18,6 +18,7 @@ This is a curated list of well-maintained and developing tools, packages, librar
 - [Neural Networks](README.md#neural-networks)
 - [NLP](README.md#nlp)
 - [Non-SQL Database Interactions](README.md#non-sql-database-interactions)
+- [Parquet](README.md#parquet)
 - [Plotting/dashboarding](README.md#plottingdashboarding)
 - [Probability/statistics/experiments](README.md#probabilitystatisticsexperiments)
 - [Recommendation Systems/Engines](README.md#recommendation-systems)     
@@ -162,11 +163,16 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/tsuna/gohbase](https://github.com/tsuna/gohbase) - Pure Go HBase client.
 - [github.com/colinmarc/hdfs](https://github.com/colinmarc/hdfs) - Pure Go HDFS client.
 
+## Parquet
+
+- [github.com/xitongsys/parquet-go](https://github.com/xitongsys/parquet-go) - Go version of Read/Write parquet file.
+
 ## Plotting/dashboarding
 
 - [github.com/gonum/plot](https://github.com/gonum/plot) - An API for building and drawing plots.
 - [github.com/gigablah/dashing-go](https://github.com/gigablah/dashing-go) - A port of dashing for real-time dashboarding.
 - [github.com/mmcloughlin/globe](https://github.com/mmcloughlin/globe) - Globe wireframe visualizations.
+- [github.com/ajstarks/svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation.
 
 ## Probability/statistics/experiments
 
