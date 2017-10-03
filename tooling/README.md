@@ -104,6 +104,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 ## Graphs
 
+- [github.com/dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph Database [dgraph.io](https://dgraph.io)
 - [github.com/gyuho/goraph](https://github.com/gyuho/goraph) - Package goraph implements graph data structure and algorithms.
 - [github.com/gonum/graph](https://github.com/gonum/graph) - This is a generalized graph package for the Go language.
 - [github.com/cayleygraph/cayley](https://github.com/cayleygraph/cayley) - Cayley is an open-source graph inspired by the graph database behind Freebase and Google's Knowledge Graph.
