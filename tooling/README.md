@@ -21,7 +21,7 @@ This is a curated list of well-maintained and developing tools, packages, librar
 - [Parquet](README.md#parquet)
 - [Plotting/dashboarding](README.md#plottingdashboarding)
 - [Probability/statistics/experiments](README.md#probabilitystatisticsexperiments)
-- [Recommendation Systems/Engines](README.md#recommendation-systems)     
+- [Recommendation Systems/Engines](README.md#recommendation-systems)
 - [Regression](README.md#regression)
 - [SQL-like Database Interactions](README.md#sql-like-database-interactions)
 - [Time Series](README.md#time-series)
@@ -65,7 +65,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/go-hep/csvutil/tree/master/csvdriver](https://github.com/go-hep/csvutil/tree/master/csvdriver) - A CSV library for `databases/sql`.
 - [github.com/dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
 - [github.com/shuLhan/dsv](https://github.com/shuLhan/dsv) - The Go library for working with delimited separated value (DSV).
-- [github.com/frictionlessdata/tableschema-go](github.com/frictionlessdata/tableschema-go) - [Schema](https://github.com/danielfireman/resources) inference and table-based tooling (e.g., for working with CSV). 
+- [github.com/frictionlessdata/tableschema-go](github.com/frictionlessdata/tableschema-go) - [Schema](https://github.com/danielfireman/resources) inference and table-based tooling (e.g., for working with CSV).
 
 ## Distributed Data Analysis/Pipelining
 
@@ -129,6 +129,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/gonum/lapack](https://github.com/gonum/lapack) - A collection of packages to provide LAPACK functionality for the Go programming language.
 - [github.com/gonum/blas](https://github.com/gonum/blas) - A collection of packages to provide BLAS functionality for the Go.
 - [github.com/gonum/matrix](https://github.com/gonum/matrix) - This is a matrix package for the Go language.
+- [github.com/akualab/narray](https://github.com/akualab/narray) - A multidimensional array package optimized with Go assemby.
 
 ## Neural Networks
 
