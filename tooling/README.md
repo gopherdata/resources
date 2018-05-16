@@ -104,7 +104,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/shuLhan/go-mining](https://github.com/shuLhan/go-mining) - Small Golang library that contains classifiers (CART, Random Forest, Cascaded Random Forest, and KNN) and resampling (SMOTE and LN-SMOTE).
 - [github.com/galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way.
 - [github.com/ctava/tfcgo](https://github.com/ctava/tfcgo) - Bridging the gap between go and the Tensorflow c++ framework.
-
+- [github.com/pa-m/sklearn](https://github.com/pa-m/sklearn) - (WIP) port of bits of sklearn to Go.
 ## Graphs
 
 - [github.com/dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph Database [dgraph.io](https://dgraph.io)
