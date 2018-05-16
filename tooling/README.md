@@ -35,9 +35,9 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 - [math](https://golang.org/pkg/math/) - Stdlib math functions.
 - [math/cmplx](https://golang.org/pkg/math/cmplx/) - Package cmplx provides basic constants and mathematical functions for complex numbers.
-- [github.com/gonum/floats](https://github.com/gonum/floats) - A set of helper routines for dealing with slices of float64.
-- [github.com/gonum/optimize](https://github.com/gonum/optimize) - This is an optimization package for the Go language.
-- [github.com/go-hep/fit](https://github.com/go-hep/fit) - a WIP package to provide easy fitting models and curve fitting functions.
+- [gonum.org/v1/gonum/floats](https://godoc.org/gonum.org/v1/gonum/floats) - A set of helper routines for dealing with slices of float64.
+- [gonum.org/v1/gonum/optimize](https://godoc.org/gonum.org/v1/gonum/optimize) - This is an optimization package for the Go language.
+- [go-hep.org/x/hep/fit](https://go-hep.org/x/hep/fit) - a WIP package to provide easy fitting models and curve fitting functions.
 
 ## Bioinformatics
 
@@ -61,8 +61,8 @@ Also, this space includes a list of proposed packages that would fill certain ga
 ## CSV
 
 - [encoding/csv](https://golang.org/pkg/encoding/csv/) - Stdlib CSV functionality.
-- [github.com/go-hep/csvutil](https://github.com/go-hep/csvutil) - A set of types and funcs to deal with CSV data files in a somewhat convenient way.
-- [github.com/go-hep/csvutil/tree/master/csvdriver](https://github.com/go-hep/csvutil/tree/master/csvdriver) - A CSV library for `databases/sql`.
+- [go-hep.org/x/hep/csvutil](https:///go-hep.org/x/hep/csvutil) - A set of types and funcs to deal with CSV data files in a somewhat convenient way.
+- [go-hep.org/x/hep/csvutil/csvdriver](https://go-hep.org/x/hep/csvutil/csvdriver) - A CSV library for `databases/sql`.
 - [github.com/dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
 - [github.com/shuLhan/dsv](https://github.com/shuLhan/dsv) - The Go library for working with delimited separated value (DSV).
 - [github.com/frictionlessdata/tableschema-go](github.com/frictionlessdata/tableschema-go) - [Schema](https://github.com/danielfireman/resources) inference and table-based tooling (e.g., for working with CSV).
@@ -90,7 +90,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/elves/elvish](https://github.com/elves/elvish) - A shell (bash alternative) supporting working with pipelines of structured objects - not just text - and a more natural scripting syntax.
 - [github.com/kniren/gota](https://github.com/kniren/gota) - Dataframes.
 - [github.com/Shixzie/ly](https://github.com/Shixzie/ly) - A very flexible and easy to use pkg to work with DataFrames aimed at ML.
-- [github.com/gopherds/gophernotes](https://github.com/gopherds/gophernotes) - Go kernel for Jupyter notebooks.
+- [github.com/gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - Go kernel for Jupyter notebooks.
 - [github.com/kevinschoon/fit](https://github.com/kevinschoon/fit) - Toolkit for exploring and manipulating datasets.
 - [github.com/shuLhan/tabula](https://github.com/shuLhan/tabula) - a Go library for working with rows, columns, or matrix (table), or in another terms working with dataset.
 - [neugram.io](https://neugram.io) - a programming language written in Go, designed for data munging.
@@ -104,12 +104,12 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/shuLhan/go-mining](https://github.com/shuLhan/go-mining) - Small Golang library that contains classifiers (CART, Random Forest, Cascaded Random Forest, and KNN) and resampling (SMOTE and LN-SMOTE).
 - [github.com/galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way.
 - [github.com/ctava/tfcgo](https://github.com/ctava/tfcgo) - Bridging the gap between go and the Tensorflow c++ framework.
-
+- [github.com/pa-m/sklearn](https://github.com/pa-m/sklearn) - (WIP) port of bits of sklearn to Go.
 ## Graphs
 
 - [github.com/dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph Database [dgraph.io](https://dgraph.io)
 - [github.com/gyuho/goraph](https://github.com/gyuho/goraph) - Package goraph implements graph data structure and algorithms.
-- [github.com/gonum/graph](https://github.com/gonum/graph) - This is a generalized graph package for the Go language.
+- [gonum.org/v1/gonum/graph](https://godoc.org/gonum.org/v1/gonumgraph) - This is a generalized graph package for the Go language.
 - [github.com/cayleygraph/cayley](https://github.com/cayleygraph/cayley) - Cayley is an open-source graph inspired by the graph database behind Freebase and Google's Knowledge Graph.
 
 ## JSON
@@ -120,15 +120,15 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 ## I/O
 
-- [github.com/sbinet/go-hdf5](https://github.com/sbinet/go-hdf5) - CGo bindings to `HDF5`.
+- [gonum.org/v1/hdf5](https://godoc.org/gonum.org/v1/hdf5) - CGo bindings to `HDF5`.
 - [github.com/sbinet/npyio](https://github.com/sbinet/npyio) - Read/Write access to `.npy` data files.
 - [github.com/sbinet/go-arff](https://github.com/sbinet/go-arff) - Read/Write access to `ARFF` data files.
 
 ## Matrices/Arrays/Linear Algebra
 
-- [github.com/gonum/lapack](https://github.com/gonum/lapack) - A collection of packages to provide LAPACK functionality for the Go programming language.
-- [github.com/gonum/blas](https://github.com/gonum/blas) - A collection of packages to provide BLAS functionality for the Go.
-- [github.com/gonum/matrix](https://github.com/gonum/matrix) - This is a matrix package for the Go language.
+- [gonum.org/v1/gonum/lapack](https://godoc.org/gonum.org/v1/gonum/lapack) - A collection of packages to provide LAPACK functionality for the Go programming language.
+- [gonum.org/v1/gonum/blas](https://godoc.org/gonum.org/v1/gonum/blas) - A collection of packages to provide BLAS functionality for the Go.
+- [gonum.org/v1/gonum/mat](https://godoc.org/gonum.org/v1/gonum/mat) - This is a matrix package for the Go language.
 - [github.com/akualab/narray](https://github.com/akualab/narray) - A multidimensional array package optimized with Go assemby.
 
 ## Neural Networks
@@ -171,14 +171,14 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 ## Plotting/dashboarding
 
-- [github.com/gonum/plot](https://github.com/gonum/plot) - An API for building and drawing plots.
+- [gonum.org/v1/plot](https://godoc.org/gonum.org/v1/plot) - An API for building and drawing plots.
 - [github.com/gigablah/dashing-go](https://github.com/gigablah/dashing-go) - A port of dashing for real-time dashboarding.
 - [github.com/mmcloughlin/globe](https://github.com/mmcloughlin/globe) - Globe wireframe visualizations.
 - [github.com/ajstarks/svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation.
 
 ## Probability/statistics/experiments
 
-- [github.com/gonum/stat](https://github.com/gonum/stat) - Statistics package for Go.
+- [gonum.org/v1/gonum/stat](https://godoc.org/gonum.org/v1/gonum/stat) - Statistics package for Go.
 - [github.com/montanaflynn/stats](https://github.com/montanaflynn/stats) - A statistics package with common functions that are missing from the Golang standard library.
 - [github.com/URXtech/planout-golang](https://github.com/URXtech/planout-golang) - (Multi Variate Testing) Interpreter for Planout code written in Go.
 - [github.com/peleteiro/bandit-server](https://github.com/peleteiro/bandit-server) - Bandit-server is a Multi-Armed Bandit api server which needs no configuration neither persistent store.
