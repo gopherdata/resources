@@ -191,6 +191,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 ## Recommendation Systems
 
+- [github.com/rlouf/birdland](https://github.com/rlouf/birdland) - Collaborative filtering based on random walks.
 - [github.com/jbochi/facts](https://github.com/jbochi/facts) - Matrix Factorization based recsys in Golang. Because facts are more important than ever.
 
 ## Regression
