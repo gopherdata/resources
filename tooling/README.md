@@ -57,6 +57,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 - [github.com/salkj/kmeans](https://github.com/salkj/kmeans) - A ready-to-use naive kmeans package for Go.
 - [github.com/mpraski/clusters](https://github.com/mpraski/clusters) - Go implementations of several clustering algoritms (k-means++, DBSCAN, OPTICS), as well as utilities for importing data and estimating optimal number of clusters.
+- [github.com/milosgajdos/gosom](https://github.com/milosgajdos/gosom) - Clustering with Self-organizing maps in Go
 
 ## CSV
 
@@ -137,8 +138,9 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/tleyden/neurgo](https://github.com/tleyden/neurgo) - Neural Network toolkit in Go.
 - [github.com/fxsjy/gonn](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN.
 - [github.com/NOX73/go-neural](https://github.com/NOX73/go-neural) - Neural network implementation on golang.
-- [github.com/milosgajdos83/gosom](https://github.com/milosgajdos83/gosom) - Self-organizing maps in Go
+- [github.com/milosgajdos/gosom](https://github.com/milosgajdos/gosom) - Self-organizing maps in Go
 - [github.com/made2591/go-perceptron-go](https://github.com/made2591/go-perceptron-go) - A single level perceptron classifier.
+- [github.com/milosgajdos/gopfield](https://github.com/milosgajdos/gopfield) - Hopfield neural networks in Go
 
 ## NLP
 
@@ -188,6 +190,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/dgryski/go-kll](https://github.com/dgryski/go-kll) - An implementation of KLL sketch for "Almost Optimal Streaming Quantiles."
 - [github.com/dgryski/go-linlog](https://github.com/dgryski/go-linlog) - Linear-log bucketing and histograms.
 - [github.com/dgryski/go-rbo](https://github.com/dgryski/go-rbo) - Computes the rank-biased overlap for two sorted result sets.
+- [github.com/milosgajdos/go-estimate](https://github.com/milosgajdos/go-estimate) - State estimation and filtering algorithms in Go
 
 ## Recommendation Systems
 
