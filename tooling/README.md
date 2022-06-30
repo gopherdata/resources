@@ -106,6 +106,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way.
 - [github.com/ctava/tfcgo](https://github.com/ctava/tfcgo) - Bridging the gap between go and the Tensorflow c++ framework.
 - [github.com/pa-m/sklearn](https://github.com/pa-m/sklearn) - (WIP) port of bits of sklearn to Go.
+
 ## Graphs
 
 - [github.com/dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph Database [dgraph.io](https://dgraph.io)
@@ -192,6 +193,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 ## Recommendation Systems
 
 - [github.com/jbochi/facts](https://github.com/jbochi/facts) - Matrix Factorization based recsys in Golang. Because facts are more important than ever.
+- [github.com/rlouf/birdland](https://github.com/rlouf/birdland) - A battle-tested recommendation library written in Go.
 
 ## Regression
 
