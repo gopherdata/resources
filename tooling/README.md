@@ -119,6 +119,7 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [encoding/json](https://golang.org/pkg/encoding/json/) - Stdlib json functionality.
 - [github.com/tidwall/gjson](https://github.com/tidwall/gjson) - A Go package the provides a very fast and simple way to get a value from a json document.
 - [github.com/pquerna/ffjson](https://github.com/pquerna/ffjson) - ffjson generates static MarshalJSON and UnmarshalJSON functions for structures in Go.
+- [json2go.com](https://json2go.com) - A web tool for converting JSON to Go structs.
 
 ## I/O
 
